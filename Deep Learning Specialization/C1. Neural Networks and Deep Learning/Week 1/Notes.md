@@ -10,5 +10,8 @@ ________________________________________________________________________________
 -  relu function -> Rectified Linear Units
 -  a large neural network is formed by stacking single neurons together
 -  parameters affect your housing price model -> family size, # of bedrooms, zip code, wealth (x) -> family size, walkability, school quality (stuff in the middle) -> price (y)
--  
--  
+-  every input layer feature is interconnected with every hidden layer feature.
+
+_________________________________________________________________________________________
+
+
