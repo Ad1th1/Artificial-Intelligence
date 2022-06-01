@@ -19,6 +19,11 @@
 - action = move made by agent in the current state
 - reward = score given as feedback to the agent when it takes an action in it's given state
 
+Entities in Reinforcement Learning:
+> - Agent : a thing or person that tries to gain rewards by interaction or a piece of code that implements a policy
+> - Environment : model of world, external to agent. It provides observations and rewards to the agent
+> 
+
 - iteration
 - exploration
   
