@@ -1,0 +1,15 @@
+Why DL?
+- Exponential data growth - led to the creation of dl models
+- as data increases, DL performance also increases
+- Technology Upgradation
+
+DL combines feature extraction and classification(training) in a single pipe-line
+
+Additional Information
+- Hyperparameters:
+  >A hyperparameter is a parameter whose value is set before the machine learning process begins. In contrast, the values of other parameters are derived via training. Algorithm hyperparameters affect the speed and quality of the learning process.
+  
+- Pipeline
+  > A machine learning pipeline is the end-to-end construct that orchestrates the flow of data into, and output from, a machine learning model (or set of multiple models). It includes raw data input, features, outputs, the machine learning model and model parameters, and prediction outputs.
+  
+  
