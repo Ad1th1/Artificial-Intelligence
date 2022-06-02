@@ -32,6 +32,6 @@ Tutorial 4: How to train neural networks with back-propogation:
 _________________________________________________________________________________________
 
 Tutorial 5: Multilayer Neural Network and Gradient Descent
-- 
+
 
 
