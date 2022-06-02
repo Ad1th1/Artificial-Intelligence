@@ -27,3 +27,8 @@ ________________________________________________________________________________
 - unstructured data -> audio / images(pixels) / text(words) -> humans are better at this
 
 - 
+
+
+Additional Information:
+- preprocessing:
+  > Preprocessing data is a common first step in the deep learning workflow to prepare raw data in a format that the network can accept. For example, you can resize image input to match the size of an image input layer. 
