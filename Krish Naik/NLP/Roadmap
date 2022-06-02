@@ -1,0 +1,14 @@
+- Libraries: spaCy, pytorch, keras, tensorflow
+
+- BERT
+- Transformers
+- Bidirectional LSTM RNN, Encoders and Decoders, Attention Models
+- Text Preprocessing Level 3 - Word Embedding, Word2vec
+- understanding recurrent neural networks, LSTM, GRU
+- get understanding of artificial neural network
+- Solve ML Usecases
+- Text Preprocessing - Gensim, Word2vec, AvgQord2vec
+- Text Preprocessing Level 2 = convert words to vectors -> Bag of Words, TFIDF, Unigrams, Bigrams
+- Text Preprocessing Level 1 = Tokenization, Lammatization, StopWord
+
+
