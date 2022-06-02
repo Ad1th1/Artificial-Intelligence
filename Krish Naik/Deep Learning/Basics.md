@@ -9,9 +9,9 @@
   > - subset of AI
   > - statistical tools for analysis, prediction, forecasting and preprocessinG
   > - Supervised ML = |- INPUT -> ML MODEL -> OUTPUT |
-      >  independent(input) and dependent(output) feautures
-      >  regression problem => output = continuous -> forecasting, time series forecasting
-      >  classification problem => output = fixed category
+  > >  independent(input) and dependent(output) feautures
+  > >  regression problem => output = continuous -> forecasting, time series forecasting
+  > >  classification problem => output = fixed category
           > - binary classification
           > - multiclass classification -> one output, many categories
           > - multilabel classification -> multiple outputs / labels
