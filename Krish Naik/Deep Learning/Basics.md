@@ -1,6 +1,8 @@
 - Artificial Intelligence
-  > - Machine Learning
-  > > - Deep Learning
+  > - Data Science (both ML and DL)
+  > > - Machine Learning
+  > > > - Deep Learning
+  
 
 - Artificial Intelligence 
   > - AI application
@@ -30,7 +32,8 @@
   > - CNN -> Convolutional Neural Network -> input data = images / videos
   > > - image classification, object detection(RCNN, FAST RCNN, FASTER RCNN, SSD, YOLO, DETECTRON), segmentation, tracking, GAN
   > - RNN -> Recurrent Neural Network -> input data = text, time-series data, sequential data
-  > > - RNN, LSTM RNN, Bidirectional LSTM RNN, Encoder- decoder, Transformers, BERT
+  > > - RNN, LSTM RNN, Bidirectional LSTM RNN, Encoder- decoder, Transformers, BERT, gpt1, gpt2, gpt3
+  > > - NLP -> Text -> Vectors
+  > > - BOW, TFIDF, Word2Vec, Embedding
+  
 
-
-- Data Science
