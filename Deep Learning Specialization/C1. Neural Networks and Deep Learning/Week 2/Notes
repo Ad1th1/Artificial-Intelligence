@@ -1,0 +1,9 @@
+
+
+Quiz:
+- Linear regression: algorithm to predict a continuous target variable
+  > - get a best- fit line 
+- Logistic Regression
+  > - uses sigmoid functions
+  > - used for classification
+  
