@@ -6,7 +6,8 @@
   - normalization layers
   
 
-- Keras follows best practices for reducing cognitive load: it offers consistent & simple APIs, it minimizes the number of user actions required for common use cases, and it provides clear & actionable error messages. 
+- Keras = open source library or wrapper
+- VGG-16 is a convolutional neural network that is 16 layers deep.
 
 
 
